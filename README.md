@@ -1,2 +1,2 @@
 # ClassifAI
-image_classifier 
+Detomage-image_classifier 
