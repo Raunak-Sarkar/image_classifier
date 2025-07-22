@@ -1,4 +1,4 @@
-# ClassifAI
+# Detomage
 Detomage-image_classifier 
 ![1stpic](https://github.com/user-attachments/assets/516eee93-8a45-435d-8430-27ffdee60851)
 
